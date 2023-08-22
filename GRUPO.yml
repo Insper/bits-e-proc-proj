@@ -1,1 +1,16 @@
-Nome-Grupo: "Macarrao"
+Nome-Grupo: "Camarão"
+
+- user: 1
+  name: Eduarda Domingues
+  git-username: EduardaDominguess
+  blackboard-username: eduardapd
+
+- user: 2
+  name: Gabriel Mendes
+  git-username: gabrielfmm
+  blackboard-username: gabrielfmm
+
+  - user: 4
+  name: Gustavo Lagôa
+  git-username: lagoa7
+  blackboard-username: gustavog6
