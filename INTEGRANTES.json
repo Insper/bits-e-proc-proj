@@ -3,7 +3,12 @@
   git-username: rxdrigues
   blackboard-username: gabrielr1
 
-  - user: 3
+- user: 2
+  name: Mateus Moreira
+  git-username: mmp052
+  blackboard-username: mateusmp1
+
+- user: 3
   name: Guilherme Kaidei
   git-username: guikaidei
   blackboard-username: guilhermekk
